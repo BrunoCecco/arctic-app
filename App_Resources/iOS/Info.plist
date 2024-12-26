@@ -1,0 +1,8 @@
+<key>UISupportsDocumentBrowser</key>
+<true/>
+<key>UIFileSharingEnabled</key>
+<true/>
+<key>LSSupportsOpeningDocumentsInPlace</key>
+<true/>
+<key>NSMicrophoneUsageDescription</key>
+<string>Recording Practice Sessions</string>
